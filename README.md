@@ -9,7 +9,8 @@ Pandas (Data Handling)
 NumPy (Numerical Operations)
 Matplotlib (Data Visualization)
 WordCloud (Visualizing frequent words)
-Usage
+
+## Usage
 Open the twitter_sentiment_analysis.ipynb notebook.
 Load the dataset containing tweets.
 Preprocess the data using the following techniques:
